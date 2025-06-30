@@ -4,9 +4,9 @@
   "data": {
     "version_code": 2,
     "version_name": "1.0.2",
-    "update_content": "1. 修复了已知问题\n2. 优化了应用性能\n3. 新增更新检测功能",
+    "update_content": "1. 修复了已知问题\n2. 优化了应用性能",
     "download_url": "https://pan.huang1111.cn/s/nq55bSm",
-    "force_update": true,
+    "force_update": false,
     "release_date": "2025-06-28",
     "min_supported_version": 1
   }
